@@ -5,6 +5,8 @@ created 2017
 
 //author copyright marcin matysek (r)ewertyn.PL
 
+marcinmatysek1@gmail.com
+
 //open-source
 #
 http://www.mediafire.com/file/hyz4dbski4w00pb/inverse+fourier+transform+iDFT+ifft+4+methods+in+open+office+++something+extra.ods
